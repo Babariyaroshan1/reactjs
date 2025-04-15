@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-change-button:hover {
+    background-color: #333;
+    border-color: #eee;
+    transition-duration: 0.4s;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.774),0 17px 50px 0 rgba(0, 0, 0, 0.712);
+}
+.color-button:hover{
+    transition-duration: 0.4s;
+    box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.774),0 17px 50px 0 rgba(0, 0, 0, 0.612);
+}
