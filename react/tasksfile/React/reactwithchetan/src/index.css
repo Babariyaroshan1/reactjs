@@ -1,0 +1,8 @@
+body{
+    background-color: crimson;
+    color: aliceblue;
+}
+li::marker{
+    font-size: 15px;
+    color: pink;
+}
